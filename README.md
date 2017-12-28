@@ -1,4 +1,4 @@
-#Badai Angkasa
+# Badai Angkasa
 A simple arcade game.
 
 Control using webcam or keyboard.
